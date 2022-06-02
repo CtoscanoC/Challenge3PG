@@ -10,4 +10,8 @@ Challenge #3 Password Generator
 8 After running the code it was then obvious that clearing the userselection variable was necessary to keep complying with the criteria the user selects so a clearing function was created ( function reset() )
 9 This function was added to the eventlistener but before the write password function ..in this way everytime it gets click it runs both and the user can create limitless passwords with all the criterias 
 
+![Screen Shot 06-03-22 at 04 11 AM 001](https://user-images.githubusercontent.com/103231213/171698150-75ddd633-9170-4f87-ae84-6a8dd12c3293.PNG)
+
+
+
 
